@@ -2,6 +2,9 @@ import React from 'react'
 import "./Login.css";
 
 export const Login = () => {
+
+  console.log("Vansh");
+  
   return (
     <div>
         <div className='login-inputs email-field'>
